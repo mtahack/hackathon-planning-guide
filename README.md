@@ -1,6 +1,6 @@
 # The Organizer's Guide for Setting up MTA Hack
 
-This guide gives you a brief overview of what you should do in order to set up the next MTA Hack in 4 main steps. For every phase, try looking at the drive's for the previous MTA Hacks (i.e presentations, money calculations, sponsorship invitations and plans).
+This guide gives you a brief overview of what you should do in order to set up the next MTA Hack in  steps. For every phase, try looking at the drive's for the previous MTA Hacks (i.e presentations, money calculations, sponsorship invitations and plans).
 
 Tip: divide your team into the following roles:
 
@@ -15,7 +15,7 @@ For any more questions you could always refer to previous hackathon organizers, 
 
 This is the very beginning of the planning, should take approximately 1.5 months, and should be done around 10 months before the hackathon.
 
-- Talk to previous hackacthon organizers
+- Talk to previous hackathon organizers
 - Find two dates for the hackathon (one backup)
 - Set up logos and branding
 - Think of a theme for the hackathon
