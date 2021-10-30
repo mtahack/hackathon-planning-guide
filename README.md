@@ -1,4 +1,4 @@
-# The Organizer's Guide to Setting up MTA Hack
+# The Organizer's Guide for Setting up MTA Hack
 
 This guide gives you a brief overview of what you should do in order to set up the next MTA Hack in  steps. For every phase, try looking at the drive's for the previous MTA Hacks (i.e presentations, money calculations, sponsorship invitations and plans).
 
